@@ -9,7 +9,9 @@ redirect_from:
 
 ## Welcome
 
-I am a Ph.D. candidate in the Department of Economics at Rutgers University. My research interests are broadly in econometrics, with a particular focus on causal inference and high-dimensional methods.
+I am a Ph.D. candidate in the Department of Economics at Rutgers University. I am fortunate to be advised by [Professor Yuan Liao](https://pliaoxp.github.io/).
+
+My research interests are in theoretical and applied econometrics, with a particular focus on causal inference, factor analysis, and high-dimensional models.
 
 You can contact me at [rl824@economics.rutgers.edu](mailto:rl824@economics.rutgers.edu).
 
