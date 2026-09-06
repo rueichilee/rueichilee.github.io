@@ -27,7 +27,7 @@ author:
   name             : "Ruei-Chi Lee"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
-  location         : "New Brunswick, NJ"
+  location         : # "New Brunswick, NJ"
   employer         : "Rutgers University"
   uri              : # URL
   email            : "rl824@economics.rutgers.edu" 
