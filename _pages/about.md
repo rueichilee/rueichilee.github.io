@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome
 
-I am a Ph.D. candidate in the Department of Economics at Rutgers University. I am fortunate to be advised by [Professor Yuan Liao](https://pliaoxp.github.io/).
+I am a Ph.D. candidate in the Department of Economics at Rutgers University. I am fortunate to be advised by [Prof. Yuan Liao](https://pliaoxp.github.io/).
 
 My research interests are in theoretical and applied econometrics, with a particular focus on causal inference, factor analysis, high-dimensional models, and machine learning.
 
