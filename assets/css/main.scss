@@ -31,7 +31,10 @@
     "syntax",
 
     "layout/forms",
-
+/* Hide the light/dark theme button */
+#theme-toggle {
+  display: none !important;
+}
     "layout/page",
     "layout/archive",
     "layout/sidebar",
