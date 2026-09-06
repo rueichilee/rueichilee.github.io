@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Ruei-Chi Lee"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+## Welcome
 
 I am a Ph.D. candidate in the Department of Economics at Rutgers University. My research interests are broadly in econometrics, with a particular focus on causal inference and high-dimensional methods.
 
