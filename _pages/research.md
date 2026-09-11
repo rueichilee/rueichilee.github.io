@@ -8,13 +8,11 @@ author_profile: true
 
 ### Average Treatment Effect Localization: Projection Methods in Synthetic Control
 
-Accepted in *Econometric Theory*.
-
-[arXiv](https://arxiv.org/abs/2609.10617)
+Accepted in *Econometric Theory*. [arXiv](https://arxiv.org/abs/2609.10617)
 
 **Abstract.** Many real-world policies and business interventions require assessing short-term effects to inform timely decisions, even though most causal inference methods focus on long-term average treatment effects. In this paper, we introduce average treatment effect localization (ATEL), which captures localized, short-term policy impacts in panel data settings with a single treated unit and provides early indicators of policy impact. To accommodate both time-varying and nonlinear effects of observed and unobserved covariates, we propose a nonparametric model for untreated outcome, interpreted as a time-varying factor model via sieve approximation. Estimating the time-varying factor model is challenging due to the boundary bias and identification. Our estimation method based on diversified projection can effectively address these issues. We develop an asymptotic distribution theory to facilitate inference for the ATEL estimator. In an empirical application, we apply our proposed methodology to assess the impact of right-to-carry laws on violent crime rate.
 
-### The Blessing of Overfitting in Instrumental Variables: Inference with Non-Sparse High-Dimensional Signals
+### Overfitting Inference in Instrumental Variables
 
 [Latest Draft](/files/JMP.pdf)
 
